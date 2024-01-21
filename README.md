@@ -1,4 +1,5 @@
-Design Patterns Overview
+<h2>Design Patterns Overview</h2>
+
 This repository provides a comprehensive guide to various design patterns in software development. Design patterns are proven solutions to recurring design problems, encapsulating best practices to improve code maintainability, scalability, and flexibility. This README will focus on explaining five important design patterns: Singleton, Strategy, Command, Adapter, Factory, Decorator, Abstract Factory, and Composite.
 
 Singleton Pattern

@@ -5,8 +5,7 @@ This repository provides a comprehensive guide to various design patterns in sof
 <h3>Singleton Pattern</h3>
 
 The Singleton pattern ensures a class has only one instance and provides a global point of access to it. This is useful when exactly one object is needed to coordinate actions across the system.
-
-
+<br>
 </h3>Strategy Pattern</h3>
 
 The Strategy pattern defines a family of algorithms, encapsulates each algorithm, and makes them interchangeable. It allows the client to choose the appropriate algorithm at runtime.
